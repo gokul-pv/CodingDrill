@@ -9,6 +9,7 @@ The purpose of this assignment is to do the following with MNIST data.
 
 
 **Code 1 - Setup**
+
 [Click here](https://github.com/gokul-pv/EVA6_Assignmets_Session5/blob/main/EVA6_Session_5_Code1_Basic.ipynb)
 
 Target
@@ -32,6 +33,7 @@ Analysis
 
 
 **Code 2 - BATCH NORMALIZATION and REGULARIZATION**
+
 [Click here](https://github.com/gokul-pv/EVA6_Assignmets_Session5/blob/main/EVA6_Session_5_Code2_BN_Drop.ipynb)
 
 Target
@@ -51,9 +53,10 @@ Analysis
 2. But we're not seeing 99.4. We can further improve it. 
 3. The model is not over-fitting at all. 
 4. Seeing image samples, we can see that we can add slight rotation. 
- 
-  
+
+
 **Code 3 - Image Augmentation**
+
 [Click here](https://github.com/gokul-pv/EVA6_Assignmets_Session5/blob/main/EVA6_Session_5_Code3_ImageAugmentation.ipynb)
 
 Target
@@ -72,7 +75,9 @@ Analysis
 1.  The model is still under-fitting. This is fine, as we know we have made our train data harder. 2.The test accuracy has improved a little bit, which means our test data had few images which had transformation difference w.r.t. train dataset
 2.  Add LR Scheduler may help in getting 99.4 faster
 
+
 **Code 4 - LR Scheduler**
+
 [Click here](https://github.com/gokul-pv/EVA6_Assignmets_Session5/blob/main/EVA6_Session_5_Code4_LRScheduler.ipynb)
 
 Target
