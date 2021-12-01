@@ -1,7 +1,7 @@
-# EVA6_Assignments_Session5
-EVA6 Assignment for Session 5
+# Codind Drill
+A step by step approch to improve the model
 
-The purpose of this assignment is to do the following with MNIST data.
+The aim is to do the following with MNIST data.
 
  1. target is to achieve 99.4% **(consistently shown in your last few epochs, and not a one-time achievement)**
  2. Less than or equal to 15 Epochs
@@ -10,7 +10,7 @@ The purpose of this assignment is to do the following with MNIST data.
 
 **Code 1 - Setup**
 
-[Click here](https://github.com/gokul-pv/EVA6_Assignmets_Session5/blob/main/EVA6_Session_5_Code1_Basic.ipynb)
+[Click here](./Code1_Basic.ipynb)
 
 Target
 
@@ -34,7 +34,7 @@ Analysis
 
 **Code 2 - BATCH NORMALIZATION and REGULARIZATION**
 
-[Click here](https://github.com/gokul-pv/EVA6_Assignmets_Session5/blob/main/EVA6_Session_5_Code2_BN_Drop.ipynb)
+[Click here](./Code2_BN_Drop.ipynb)
 
 Target
 
@@ -57,7 +57,7 @@ Analysis
 
 **Code 3 - Image Augmentation**
 
-[Click here](https://github.com/gokul-pv/EVA6_Assignmets_Session5/blob/main/EVA6_Session_5_Code3_ImageAugmentation.ipynb)
+[Click here](./Code3_ImageAugmentation.ipynb)
 
 Target
 
@@ -78,7 +78,7 @@ Analysis
 
 **Code 4 - LR Scheduler**
 
-[Click here](https://github.com/gokul-pv/EVA6_Assignmets_Session5/blob/main/EVA6_Session_5_Code4_LRScheduler.ipynb)
+[Click here](./Code4_LRScheduler.ipynb)
 
 Target
 
