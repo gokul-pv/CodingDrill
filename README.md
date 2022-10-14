@@ -1,5 +1,5 @@
 # Codind Drill
-A step by step approch to improve the model
+> A step by step approch to improve the model
 
 The aim is to do the following with MNIST data.
 
